@@ -19,4 +19,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Dtos\SubscribeDto\" />
+    <Folder Include="Dtos\StaffDto\" />
+    <Folder Include="Dtos\ServiceSto\" />
+  </ItemGroup>
+
 </Project>
